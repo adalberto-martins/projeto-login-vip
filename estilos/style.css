@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+/*
+paleta de cores
+verde: #49a09d
+lilás: #5f2c82
+*/
+
+:rot {
+    --cor0: #49a09d;
+    --cor1: #5f2c82;
+}
